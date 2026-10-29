@@ -185,6 +185,11 @@ file to your domain without port, e.g.:
 APP_URL=http://myhostingdomain.com
 ```
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/Aimeos/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/aimeos"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ## Frontend
 
 After the installation, you can test the Aimeos shop frontend by calling the URL of your
